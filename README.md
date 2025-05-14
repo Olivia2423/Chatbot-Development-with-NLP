@@ -1,5 +1,9 @@
 # Chatbot Web Application
 
+## 🎥 Demo Video
+
+[▶️ Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1UUnzqz_4qlnCAMq1SmA0U3C_s3Vkr84r/view?usp=drive_link)
+
 A simple Django-based chatbot web application integrated with the Gemini AI model to handle user queries and provide intelligent responses. Users can register, log in, and interact with the AI through a chat interface. This project demonstrates the integration of Django with external APIs to create a functional AI-powered chatbot.
 
 ## Features
@@ -54,6 +58,6 @@ Make sure the .env file is listed in .gitignore to prevent it from being pushed 
 
 You should now be able to access the chatbot at http://127.0.0.1:8000/.
 
-### uSAGE
+### USAGE
 1. Login/Register: If you don't have an account, register. Otherwise, log in using your credentials.
 2.nteract with the Chatbot: Type your messages in the input box, and the chatbot will generate responses using Gemini.
